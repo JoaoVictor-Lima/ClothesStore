@@ -1,0 +1,14 @@
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\bin\Debug\net6.0\ClothesStoreInfrastructure.deps.json
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\bin\Debug\net6.0\ClothesStoreInfrastructure.runtimeconfig.json
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\bin\Debug\net6.0\ClothesStoreInfrastructure.dll
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\bin\Debug\net6.0\ClothesStoreInfrastructure.pdb
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\obj\Debug\net6.0\ClothesStoreInfrastructure.csproj.AssemblyReference.cache
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\obj\Debug\net6.0\ClothesStoreInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\obj\Debug\net6.0\ClothesStoreInfrastructure.AssemblyInfoInputs.cache
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\obj\Debug\net6.0\ClothesStoreInfrastructure.AssemblyInfo.cs
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\obj\Debug\net6.0\ClothesStoreInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\obj\Debug\net6.0\ClothesStoreInfrastructure.dll
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\obj\Debug\net6.0\refint\ClothesStoreInfrastructure.dll
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\obj\Debug\net6.0\ClothesStoreInfrastructure.pdb
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\obj\Debug\net6.0\ClothesStoreInfrastructure.genruntimeconfig.cache
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreInfrastructure\obj\Debug\net6.0\ref\ClothesStoreInfrastructure.dll

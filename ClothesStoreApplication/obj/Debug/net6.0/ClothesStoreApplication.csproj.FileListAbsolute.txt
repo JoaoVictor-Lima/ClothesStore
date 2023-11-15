@@ -1,0 +1,11 @@
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreApplication\bin\Debug\net6.0\ClothesStoreApplication.deps.json
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreApplication\bin\Debug\net6.0\ClothesStoreApplication.dll
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreApplication\bin\Debug\net6.0\ClothesStoreApplication.pdb
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreApplication\obj\Debug\net6.0\ClothesStoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreApplication\obj\Debug\net6.0\ClothesStoreApplication.AssemblyInfoInputs.cache
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreApplication\obj\Debug\net6.0\ClothesStoreApplication.AssemblyInfo.cs
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreApplication\obj\Debug\net6.0\ClothesStoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreApplication\obj\Debug\net6.0\ClothesStoreApplication.dll
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreApplication\obj\Debug\net6.0\refint\ClothesStoreApplication.dll
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreApplication\obj\Debug\net6.0\ClothesStoreApplication.pdb
+C:\Users\vctor\source\repos\ClothesStore\ClothesStoreApp\ClothesStoreApplication\obj\Debug\net6.0\ref\ClothesStoreApplication.dll
